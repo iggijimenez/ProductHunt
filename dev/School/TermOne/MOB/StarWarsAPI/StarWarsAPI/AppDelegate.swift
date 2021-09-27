@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  ProductHuntExample
+//  StarWarsAPI
 //
-//  Created by Jimenez on 8/25/21.
+//  Created by Jimenez on 9/27/21.
 //
 
 import UIKit
